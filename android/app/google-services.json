@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "68132042208",
+    "firebase_url": "https://sathi-tracker1.firebaseio.com",
+    "project_id": "sathi-tracker1",
+    "storage_bucket": "sathi-tracker1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68132042208:android:0115807c08d4a19228e785",
+        "android_client_info": {
+          "package_name": "com.example.sathitracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68132042208-5ns97hbbe86tv53tvvnhk42vc2vdm5ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF506rGu_VZhf6iGyD6dihCLhg85zZaaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68132042208-5ns97hbbe86tv53tvvnhk42vc2vdm5ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
